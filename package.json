@@ -1,0 +1,18 @@
+{
+  "name": "jestMockTest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": "git@github.com:ryutaro-kawakami/jest-mock-test.git",
+  "author": "ryutaro-kawakami <r-kawakami@mediba.jp>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.24.0"
+  },
+  "devDependencies": {
+    "jest": "^27.4.4"
+  }
+}
